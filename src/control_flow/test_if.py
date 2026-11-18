@@ -9,7 +9,7 @@ An if … elif … elif … sequence is a substitute for the switch or case stat
 in other languages.
 """
 
-
+# Student C's conflicting configuration change
 def test_if_statement():
     """IF statement"""
 

@@ -10,6 +10,9 @@ in other languages.
 """
 
 # student D's conflicting configuration change.
+
+# Student C's conflicting configuration change
+
 def test_if_statement():
     """IF statement"""
 
